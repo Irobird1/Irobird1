@@ -1,5 +1,9 @@
-## Hi there 👋
+## Howdy! 👋
+I am a Math, CS, and Data Science student at Washington & Lee University.
+My main hobbies include everything music, bouldering, and reading.
+Reach me at swizda@mail.wlu.edu
 
+Thanks for stopping by!
 <!--
 **Irobird1/Irobird1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
